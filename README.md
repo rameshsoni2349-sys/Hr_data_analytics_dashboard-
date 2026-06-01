@@ -135,6 +135,6 @@ Research Director (2) → Lowest attrition.
 👉 **Laboratory Technicians** and **Sales Executives** have the highest attrition.
 👉 Most employees leave in their **early years** at the company.
 
-### Presentation Summary
+### Presentation
 
 **"The highest attrition is seen among young employees, low-salary employees, and Laboratory Technicians. Improving salary, career growth, and employee engagement may help reduce attrition."**
